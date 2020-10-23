@@ -1,22 +1,29 @@
 {
   "files": {
-    "main.css": "/deploy-react1/static/css/main.b249a9b0.chunk.css",
-    "main.js": "/deploy-react1/static/js/main.e465280c.chunk.js",
-    "main.js.map": "/deploy-react1/static/js/main.e465280c.chunk.js.map",
+    "main.css": "/deploy-react1/static/css/main.23e2bb4a.chunk.css",
+    "main.js": "/deploy-react1/static/js/main.205561d8.chunk.js",
+    "main.js.map": "/deploy-react1/static/js/main.205561d8.chunk.js.map",
     "runtime-main.js": "/deploy-react1/static/js/runtime-main.c96d0234.js",
     "runtime-main.js.map": "/deploy-react1/static/js/runtime-main.c96d0234.js.map",
-    "static/js/2.c5048036.chunk.js": "/deploy-react1/static/js/2.c5048036.chunk.js",
-    "static/js/2.c5048036.chunk.js.map": "/deploy-react1/static/js/2.c5048036.chunk.js.map",
+    "static/js/2.9b1dddaa.chunk.js": "/deploy-react1/static/js/2.9b1dddaa.chunk.js",
+    "static/js/2.9b1dddaa.chunk.js.map": "/deploy-react1/static/js/2.9b1dddaa.chunk.js.map",
     "index.html": "/deploy-react1/index.html",
-    "precache-manifest.b31ac36254e46fa86160a06ba975114b.js": "/deploy-react1/precache-manifest.b31ac36254e46fa86160a06ba975114b.js",
+    "precache-manifest.73d05aec3f367b983a691b2b5e6bea59.js": "/deploy-react1/precache-manifest.73d05aec3f367b983a691b2b5e6bea59.js",
     "service-worker.js": "/deploy-react1/service-worker.js",
-    "static/css/main.b249a9b0.chunk.css.map": "/deploy-react1/static/css/main.b249a9b0.chunk.css.map",
-    "static/js/2.c5048036.chunk.js.LICENSE.txt": "/deploy-react1/static/js/2.c5048036.chunk.js.LICENSE.txt"
+    "static/css/main.23e2bb4a.chunk.css.map": "/deploy-react1/static/css/main.23e2bb4a.chunk.css.map",
+    "static/js/2.9b1dddaa.chunk.js.LICENSE.txt": "/deploy-react1/static/js/2.9b1dddaa.chunk.js.LICENSE.txt",
+    "static/media/image1.jpg": "/deploy-react1/static/media/image1.3cd9bd31.jpg",
+    "static/media/image2.png": "/deploy-react1/static/media/image2.04d02930.png",
+    "static/media/image3.png": "/deploy-react1/static/media/image3.2a90dfeb.png",
+    "static/media/image4.jpg": "/deploy-react1/static/media/image4.8d1ceef7.jpg",
+    "static/media/image5.jpg": "/deploy-react1/static/media/image5.102d0b71.jpg",
+    "static/media/App.css": "/deploy-react1/static/media/image8.69e5a09d.jpg",
+    "static/media/video-3.mp4": "/deploy-react1/static/media/video-3.3c7d169f.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.c96d0234.js",
-    "static/js/2.c5048036.chunk.js",
-    "static/css/main.b249a9b0.chunk.css",
-    "static/js/main.e465280c.chunk.js"
+    "static/js/2.9b1dddaa.chunk.js",
+    "static/css/main.23e2bb4a.chunk.css",
+    "static/js/main.205561d8.chunk.js"
   ]
 }
